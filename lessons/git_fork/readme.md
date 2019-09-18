@@ -57,5 +57,5 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->> I didn't realize there was a neckbeard emoji! My favorites are :dancer: and :U+1F937:
+>> I didn't realize there was a neckbeard emoji! My favorites are :dancer: and :U1F937:
 
